@@ -1,2 +1,2 @@
 # ROM
-Jaz, Aljaž Remžgar, sem si za seminarsko nalogo Racionalne Funkcije, predstavil bom kako se riše grafe in kako se iz funkjij razbere pole, ničle itd ter njihovo risanje
+Jaz, Aljaž Remžgar, sem si za seminarsko nalogo izbral Racionalne Funkcije, predstavil bom kako se riše njihove grafe in kako se iz funkjij razbere pole, ničle itd , sledeče sodosti in lihosti grafov, kdaj graf seka asimptoto, kaj se zgodi v primerih, da je stopnja števca večja kot v imenovalcu....
